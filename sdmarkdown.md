@@ -1,4 +1,4 @@
-#Cách sử dụng ngôn ngữ Markdown
+# Cách sử dụng ngôn ngữ Markdown
 
 #1.Phần tiêu đề
 
@@ -9,36 +9,19 @@
 # H1
 
 ``` 
-##H2
+## H2
 
 ```
-##H2
+## H2
 
 ```
-###H3
+### H3
 
 ```
-###H3
+### H3
 
 Tương tự như vậy các tiêu đề cấp sau thì thêm nhiều dấu `#` hơn
 
-Cách khác để viết tiêu đề
-
-```
-Ví dụ 1
-=======
-```
-
-Ví dụ 1
-=======
-
-```
-Ví dụ 2
--------
-```
-
-Ví dụ 2
--------
 
 #2.Nhấn mạnh
 
@@ -50,11 +33,7 @@ Có nhiều cách để nhấn mạnh
 
 - Để gạch thêm nhấn mạnh bằng cách gạch ngang chữ ta dùng ` ~~ Từ gạch ~~` sẽ ra ~~ Từ gạch ~~
 
-#3.Danh sách
-
-Thực hiện
-
-![](https://github.com/niemdinhtrong/NIEMDT/blob/master/markdown/images/Screenshot_9.png)
+# 3.Danh sách
 
 thì kết quả sẽ là 
 
@@ -69,8 +48,6 @@ thì kết quả sẽ là
      - Mục 2.2.1
 
 3. Mục 3
-
-`chú ý` là các mục cùng cấp thì đề đầu dàng thẳng hàng nhau. Nếu là thư mục con thì lùi vào trong.
 
 #4.Chèn link
 
@@ -98,21 +75,11 @@ https://www.google.com
 
 #5.Chèn ảnh
 
-Chèn ảnh ta có 2 cách như cách chèn link đầu tiên
+Chèn ảnh ta có hai cách để chèn ảnh 
 
-`![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "phần mô tả khi trỏ vào ảnh")`
+cách 1: chèn ảnh trực tiếp bằng một hàng https://github.com/duckmak14/anh/blob/master/Screenshot_1.png
 
-![](![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "phần mô tả khi trỏ vào ảnh")
-
-```
-![](logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "phần mô tả khi trỏ vào ảnh"
-```
-
-![](logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "phần mô tả khi trỏ vào ảnh"
+cách 2: chèn ảnh bằng cách tham chiếu xuống môt link ảnh https://github.com/duckmak14/anh/blob/master/Screenshot_2.png
 
 #6.Đánh dấu code và cú pháp
 
@@ -139,19 +106,7 @@ ta dùng ` ``` `
 đoạn 2
 ```
 
-Markdown cũng hỗ trợ tạo màu các cú pháp trong một số ngôn ngữ 
 
-```
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-```
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
 
 #7. Bảng
 
