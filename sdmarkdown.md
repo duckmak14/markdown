@@ -1,6 +1,6 @@
 # Cách sử dụng ngôn ngữ Markdown
 
-#1.Phần tiêu đề
+# 1.Phần tiêu đề
 
 ```
 # H1
@@ -23,7 +23,7 @@
 Tương tự như vậy các tiêu đề cấp sau thì thêm nhiều dấu `#` hơn
 
 
-#2.Nhấn mạnh
+# 2.Nhấn mạnh
 
 Có nhiều cách để nhấn mạnh
 
@@ -32,6 +32,8 @@ Có nhiều cách để nhấn mạnh
 - Để in đậm ta dùng `** Từ cần in đậm **` nó sẽ được ** Từ cần in đậm **
 
 - Để gạch thêm nhấn mạnh bằng cách gạch ngang chữ ta dùng ` ~~ Từ gạch ~~` sẽ ra ~~ Từ gạch ~~
+
+- Khi ta viết văn bản vào hai dấu thăng thì văn bản sẽ được giữ nguyên những gì ta viết 
 
 # 3.Danh sách
 
@@ -49,7 +51,7 @@ thì kết quả sẽ là
 
 3. Mục 3
 
-#4.Chèn link
+# 4.Chèn link
 
 Có nhiều cách để chèn link
 
@@ -73,7 +75,7 @@ Ta cũng có thể đặt link trực tiếp luôn
 
 https://www.google.com
 
-#5.Chèn ảnh
+# 5.Chèn ảnh
 
 Chèn ảnh ta có hai cách để chèn ảnh 
 
@@ -81,7 +83,7 @@ cách 1: chèn ảnh trực tiếp bằng một hàng https://github.com/duckmak
 
 cách 2: chèn ảnh bằng cách tham chiếu xuống môt link ảnh https://github.com/duckmak14/anh/blob/master/Screenshot_2.png
 
-#6.Đánh dấu code và cú pháp
+# 6.Đánh dấu code và cú pháp
 
 Để bo chữ ta dùng kí tự ` ` chữ cần bo` `
 
@@ -108,7 +110,7 @@ ta dùng ` ``` `
 
 
 
-#7. Bảng
+# 7. Bảng
 
 ```
 | dòng | cột 1 | cột 2 | Cột 3 |
@@ -122,7 +124,7 @@ ta dùng ` ``` `
 |dòng 1 | 1 | 2 | 3 |
 |Dòng 2 | 4 | 5 | 6 |
 
-#8.Tạo dòng chú thích
+# 8.Tạo dòng chú thích
 
 ```
 
