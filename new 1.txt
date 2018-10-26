@@ -47,6 +47,7 @@ Nếu muốn viết dưới dạng bảng thì ta lại có một số câu lệ
 | Tables | Are | Cool |
 |--------|-----|------|
 | cột 1  | cột | cột 3|
+|		 |     |      |	
 
 
 
