@@ -143,17 +143,16 @@ Cái này có nghĩa là:
 
 # 9.Tạo ra dấu gạch ngang 
 
-Three or more...
-
+ta có thể dùng 3 dấu gạch ngang
 ---
 
-Hyphens
+hấu sao
 
 ***
 
-Asterisks
+hay 3 dấu gạch dưới
 
 ___
 
-Underscores
+
 
