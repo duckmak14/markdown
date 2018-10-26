@@ -1,0 +1,52 @@
+# Cách sử dụng markdown
+khi viết một văn bản thì đầu tiên chúng ta sẽ chú ý đến tiêu đề. Thì các loại tiêu đề trong markdown sẽ được viết bắt đầu bằng dấu '#' mức độ của tiêu đề được giảm dần từ 1 tới 6 
+ví dụ như 
+
+# H1 là tiêu đề mức một to nhất và nó giảm dần 
+
+###### H6 là mức tiêu đề bé nhất 
+
+Ngoài ra còn có một số kiểu chữ khác như gạch chân hay in dậm và còn cả in nghiêng
+
+in nghiêng ta dùng hai dấu sao và văn bản ở giữa như  *văn bản*
+
+in đậm ta dùng hai đấu ** ở hai đầu văn bản   **nó sẽ ra như thế này** 
+
+bạn có thể vừa in nghiêng vừa bôi đậm bằng ba dấu sao như trên 
+
+khi muốn chèn một link ảnh vào văn bản thì cần có đường link trong markdown thì ta past luôn vào file md
+
+Còn viết ra một list thì có một số lưu ý:  danh mục không được sắp xếp thứ tự nó có thể bắt đầu lại bất cứ lúc nào hay ta có thể dùng dấu chấm tròn
+
+khi bạn viết dấu trừ hay dấu cộng thì nó vẫn hiển thị ra dấu chấm tròn 
+
+- đây là dấu trừ 
++ cộng 
+* và sao 
+tất cả đều được hiển thị thành dấu chấm tròn 
+
+#Chèn ảnh 
+
+có hai kiểu chèn ảnh khi ta muốn chèn ảnh 
+	- đây là chèn ảnh : https://github.com/duckmak14/anh/blob/master/Screenshot_1.png
+	
+	- và chèn ảnh tham chiếu : https://github.com/duckmak14/anh/blob/master/Screenshot_2.png
+		trong kiểu tham chiếu thì cái [ logo ] chính là đường tham chiếu tới link ảnh 
+		
+#Code 
+
+Muốn sử dụng các dòng code thì ta sẽ dùng 3 dấu ` liên tục và nó sẽ hiển thị đúng những gì ta viết 
+
+``` *in nghiêng* nó vẫn hiển thị mà không in nghiên như ta viết ngoài 3 dấu phẩy trên```
+
+lưu ý cái này chỉ dùng trên một dòng
+
+#Bảng
+Nếu muốn viết dưới dạng bảng thì ta lại có một số câu lệnh sau	
+
+| Tables | Are | Cool |
+
+
+
+
+
