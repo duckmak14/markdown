@@ -1,5 +1,7 @@
 # Cách sử dụng ngôn ngữ Markdown
 
+Ta có thể sử dụng được một số câu lệnh trong HTML vào markdown 
+
 # 1.Phần tiêu đề
 
 ```
@@ -138,4 +140,20 @@ Cái này có nghĩa là:
 
 > ý nghĩa 1
 > ý nghĩa 2
+
+# 9.Tạo ra dấu gạch ngang 
+
+Three or more...
+
+---
+
+Hyphens
+
+***
+
+Asterisks
+
+___
+
+Underscores
 
