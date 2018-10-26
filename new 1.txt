@@ -45,6 +45,8 @@ lưu ý cái này chỉ dùng trên một dòng
 Nếu muốn viết dưới dạng bảng thì ta lại có một số câu lệnh sau	
 
 | Tables | Are | Cool |
+|--------|-----|------|
+| cột 1  | cột | cột 3|
 
 
 
