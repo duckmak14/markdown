@@ -4,6 +4,22 @@ Ta có thể sử dụng được một số câu lệnh trong HTML vào markdow
 
 [ 1.Phần tiêu đề](#phantieude)
 
+[ 2.Nhấn mạnh văn bản](#nhanmanh)
+
+[ 3.Danh sách](#danhsanh)
+
+[ 4.Chèn link](#chenlink)
+
+[ 5.Chèn ảnh](#chenanh)
+
+[ 6.Đánh dấu và cách viết code](#code)
+
+[ 7.Bảng](#bang)
+
+[ 8.Tạo chú thích](#chuthich)
+
+[ 9.Dấu Ngang](#daungang)
+
 <a name="phantieude">
 
 # 1.Phần tiêu đề
@@ -42,6 +58,8 @@ Có nhiều cách để nhấn mạnh
 
 - Khi ta viết văn bản vào hai dấu thăng thì văn bản sẽ được giữ nguyên những gì ta viết 
 
+<a name="danhsanh">
+
 # 3.Danh sách
 
 thì kết quả sẽ là 
@@ -58,7 +76,11 @@ thì kết quả sẽ là
 
 3. Mục 3
 
+<a name="chenlink">
+
 # 4.Chèn link
+
+
 
 Có nhiều cách để chèn link
 
@@ -82,6 +104,8 @@ Ta cũng có thể đặt link trực tiếp luôn
 
 https://www.google.com
 
+<a name="chenanh">
+
 # 5.Chèn ảnh
 
 Chèn ảnh ta có hai cách để chèn ảnh 
@@ -89,6 +113,8 @@ Chèn ảnh ta có hai cách để chèn ảnh
 cách 1: chèn ảnh trực tiếp bằng một hàng https://github.com/duckmak14/anh/blob/master/Screenshot_1.png
 
 cách 2: chèn ảnh bằng cách tham chiếu xuống môt link ảnh https://github.com/duckmak14/anh/blob/master/Screenshot_2.png
+
+<a name="code">
 
 # 6.Đánh dấu code và cú pháp
 
@@ -115,7 +141,7 @@ ta dùng ` ``` `
 đoạn 2
 ```
 
-
+<a name="bang">
 
 # 7. Bảng
 
@@ -131,6 +157,8 @@ ta dùng ` ``` `
 |dòng 1 | 1 | 2 | 3 |
 |Dòng 2 | 4 | 5 | 6 |
 
+<a name="chuthich">
+
 # 8.Tạo dòng chú thích
 
 ```
@@ -145,6 +173,8 @@ Cái này có nghĩa là:
 
 > ý nghĩa 1
 > ý nghĩa 2
+
+<a name="daungang">
 
 # 9.Tạo ra dấu gạch ngang 
 
