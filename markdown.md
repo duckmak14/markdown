@@ -178,7 +178,7 @@ Cái này có nghĩa là:
 
 # 9.Tạo ra dấu gạch ngang 
 
-######ta có thể dùng 3 dấu gạch ngang
+ta có thể dùng 3 dấu gạch ngang
 
 ---
 
