@@ -2,6 +2,10 @@
 
 Ta có thể sử dụng được một số câu lệnh trong HTML vào markdown 
 
+[ 1.Phần tiêu đề] (#phantieude)
+
+<a name="phantieude">
+
 # 1.Phần tiêu đề
 
 ```
