@@ -2,9 +2,10 @@
 
 Ta có thể sử dụng được một số câu lệnh trong HTML vào markdown 
 
-[ 1.Phần tiêu đề] (#phantieude)
+[ 1.Phần tiêu đề](#phantieude)
 
 <a name="phantieude">
+
 # 1.Phần tiêu đề
 
 ```
@@ -27,6 +28,7 @@ Ta có thể sử dụng được một số câu lệnh trong HTML vào markdow
 
 Tương tự như vậy các tiêu đề cấp sau thì thêm nhiều dấu `#` hơn
 
+<a name="nhanmanh">
 
 # 2.Nhấn mạnh
 
