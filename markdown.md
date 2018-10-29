@@ -110,9 +110,15 @@ https://www.google.com
 
 Chèn ảnh ta có hai cách để chèn ảnh 
 
-cách 1: chèn ảnh trực tiếp bằng một hàng https://github.com/duckmak14/anh/blob/master/Screenshot_1.png
+cách 1: chèn ảnh trực tiếp bằng một hàng
+ 
+![alt text](https://github.com/duckmak14/anh/blob/master/Screenshot_1.png)
 
-cách 2: chèn ảnh bằng cách tham chiếu xuống môt link ảnh https://github.com/duckmak14/anh/blob/master/Screenshot_2.png
+cách 2: chèn ảnh bằng cách tham chiếu xuống môt link ảnh
+
+![alt text][logo]
+
+[logo]:  https://github.com/duckmak14/anh/blob/master/Screenshot_2.png "Logo Title Text 2"
 
 <a name="code">
 
